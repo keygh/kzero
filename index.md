@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的网页！
 
-You can use the [editor on GitHub](https://github.com/keygh/kzero/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+   不知道说点什么，那就介绍介绍我自己吧。为人无聊且诙谐，纯洁又没节操，爱好广泛，样样通样样不精。志愿做一个改变
+世界的人，理想职业是科学家。欢迎来骚扰。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 我点亮的技能树
 
-### Markdown
+   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+#设计影像音频类
+1.PS
+2.AI
+3.AU
+4.PR
+5.AE
+6.FLASH
 
-```markdown
-Syntax highlighted code block
+#前端后端编程类
+1.HTML
+2.PYTHON
+3.C\C++
+4.RUBY
+5.VB
+6.CSS\JS
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+#其他
+1.……
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+别夸我，我知道我很优秀，
 
-### Jekyll Themes
+### 我的11月12月计划及期望
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keygh/kzero/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+   学习数学》高数、线代、概率
+   学习英语，通过考试
+   做好我的公众号并能变现
 
-### Support or Contact
+### 我的联系方式
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我的邮箱：Key_youxiang@163.com
